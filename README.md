@@ -10,4 +10,4 @@ Aplicação de exemplos apresentados nas aulas de React.JS durante o bootcamp Re
         - Store, reducers, actions e provider;
         - Funções puras;
         - ...Spread operator;
-        - Hooks;
+        - Hooks.
